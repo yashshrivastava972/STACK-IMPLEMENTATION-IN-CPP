@@ -1,4 +1,4 @@
-# Aim: To Study & Implement Stack Implementation using Array.
+# Aim: To Study & Implement Stack Implementation Using Array.
 
 # Tool: VS CODE.
 
