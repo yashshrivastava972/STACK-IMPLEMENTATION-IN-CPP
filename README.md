@@ -7,6 +7,7 @@
 A stack is a linear data structure in which elements can be inserted and deleted only from one side of the list, called the top. A stack follows the LIFO (Last In First Out) principle, i.e., the element inserted at the last is the first element to come out. The insertion of an element into the stack is called push operation, and the deletion of an element from the stack is called pop operation. In stack, we always keep track of the last element present in the list with a pointer called top.
 
 The diagrammatic representation of the stack is given below: 
+
 <img width="404" height="443" alt="image" src="https://github.com/user-attachments/assets/a7d15fd6-91be-4dd6-923b-b978ca508e67" />
 
 ## Characteristics of a Stack
